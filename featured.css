@@ -1,0 +1,131 @@
+/*Featured Asia*/
+.featured-asia-item:nth-child(1) {
+    background: url(images/Asia/japanmonkey.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-asia-item:nth-child(2) {
+    background: url(images/Asia/chinadragon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-asia-item:nth-child(3) {
+    background: url(images/Asia/tajmahal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*Featured Africa*/
+.featured-africa-item:nth-child(1) {
+    background: url(images/Africa/southafrica.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-africa-item:nth-child(2) {
+    background: url(images/Africa/sergentti.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-africa-item:nth-child(3) {
+    background: url(images/Africa/victoriafalls.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*Featured Oceania*/
+.featured-oceania-item:nth-child(1) {
+    background: url(images/Oceania/newzealandfeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-oceania-item:nth-child(2) {
+    background: url(images/Oceania/greatbarrierreef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-oceania-item:nth-child(3) {
+    background: url(images/Oceania/samoafeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*Featured Europe*/
+.featured-europe-item:nth-child(1) {
+    background: url(images/Europe/spainfeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-europe-item:nth-child(2) {
+    background: url(images/Europe/norwayfeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-europe-item:nth-child(3) {
+    background: url(images/Europe/italyfeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*Featured North America*/
+.featured-north-america-item:nth-child(1) {
+    background: url(images/NorthAmerica/usafeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-north-america-item:nth-child(2) {
+    background: url(images/NorthAmerica/canadafeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-north-america-item:nth-child(3) {
+    background: url(images/NorthAmerica/bahamasfeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*Featured North America*/
+.featured-south-america-item:nth-child(1) {
+    background: url(images/SouthAmerica/brazilfeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-south-america-item:nth-child(2) {
+    background: url(images/SouthAmerica/perufeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.featured-south-america-item:nth-child(3) {
+    background: url(images/SouthAmerica/boliviafeatured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

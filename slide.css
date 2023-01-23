@@ -1,0 +1,341 @@
+/*Slide Australia*/
+.swiper-slide-australia:nth-child(1) {
+    background-image: url(images/Oceania/Australia/greatbarrierreef.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-australia:nth-child(2) {
+    background-image: url(images/Oceania/Australia/bluemountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-australia:nth-child(3) {
+    background-image: url(images/Oceania/Australia/noosa.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Bahamas*/
+.swiper-slide-bahamas:nth-child(1) {
+    background-image: url(images/NorthAmerica/Bahamas/pig.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-bahamas:nth-child(2) {
+    background-image: url(images/NorthAmerica/Bahamas/snorkelling.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-bahamas:nth-child(3) {
+    background-image: url(images/NorthAmerica/Bahamas/cocktail.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Bolivia*/
+.swiper-slide-bolivia:nth-child(1) {
+    background-image: url(images/SouthAmerica/Bolivia/salardeuyuni.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-bolivia:nth-child(2) {
+    background-image: url(images/SouthAmerica/Bolivia/rainbowmountain.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-bolivia:nth-child(3) {
+    background-image: url(images/SouthAmerica/Bolivia/lagunacolorada.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Brazil*/
+.swiper-slide-brazil:nth-child(1) {
+    background-image: url(images/SouthAmerica/Brazil/amazon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-brazil:nth-child(2) {
+    background-image: url(images/SouthAmerica/Brazil/iguazufalls.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-brazil:nth-child(3) {
+    background-image: url(images/SouthAmerica/Brazil/christthereedemer.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Canada*/
+.swiper-slide-canada:nth-child(1) {
+    background-image: url(images/NorthAmerica/Canada/northernlights.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-canada:nth-child(2) {
+    background-image: url(images/NorthAmerica/Canada/grosmorne.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-canada:nth-child(3) {
+    background-image: url(images/NorthAmerica/Canada/banff.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide China*/
+.swiper-slide-china:nth-child(1) {
+    background-image: url(images/Asia/China/monastery.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-china:nth-child(2) {
+    background-image: url(images/Asia/China/zhangjiajie.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-china:nth-child(3) {
+    background-image: url(images/Asia/China/forbiddencity.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide India*/
+.swiper-slide-india:nth-child(1) {
+    background-image: url(images/Asia/India/indiandancer.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-india:nth-child(2) {
+    background-image: url(images/Asia/India/buddisttemple.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-india:nth-child(3) {
+    background-image: url(images/Asia/India/tajmahal.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Japan*/
+.swiper-slide-japan:nth-child(1) {
+    background-image: url(images/Asia/Japan/japanmonkeyspa.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-japan:nth-child(2) {
+    background-image: url(images/Asia/Japan/tokyo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-japan:nth-child(3) {
+    background-image: url(images/Asia/Japan/bamboo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide New Zealand*/
+.swiper-slide-new-zealand:nth-child(1) {
+    background-image: url(images/Oceania/NewZealand/coromandel.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-new-zealand:nth-child(2) {
+    background-image: url(images/Oceania/NewZealand/hobbit.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-new-zealand:nth-child(3) {
+    background-image: url(images/Oceania/NewZealand/hukafalls.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Norway*/
+.swiper-slide-norway:nth-child(1) {
+    background-image: url(images/Europe/Norway/kjerag.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-norway:nth-child(2) {
+    background-image: url(images/Europe/Norway/pulpitrock.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-norway:nth-child(3) {
+    background-image: url(images/Europe/Norway/fishing.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Peru*/
+.swiper-slide-peru:nth-child(1) {
+    background-image: url(images/SouthAmerica/Peru/machupicchu.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-peru:nth-child(2) {
+    background-image: url(images/SouthAmerica/Peru/colcacanyon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-peru:nth-child(3) {
+    background-image: url(images/SouthAmerica/Peru/sacredvalley.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Samoa*/
+.swiper-slide-samoa:nth-child(1) {
+    background-image: url(images/Oceania/Samoa/lalomanubeach.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-samoa:nth-child(2) {
+    background-image: url(images/Oceania/Samoa/blowholes.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-samoa:nth-child(3) {
+    background-image: url(images/Oceania/Samoa/fruit.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide South Africa*/
+.swiper-slide-south-africa:nth-child(1) {
+    background-image: url(images/Africa/SouthAfrica/bungijump.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-south-africa:nth-child(2) {
+    background-image: url(images/Africa/SouthAfrica/blyderivercanyon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-south-africa:nth-child(3) {
+    background-image: url(images/Africa/SouthAfrica/boulderspenguins.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Spain*/
+.swiper-slide-spain:nth-child(1) {
+    background-image: url(images/Europe/Spain/campnou.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-spain:nth-child(2) {
+    background-image: url(images/Europe/Spain/barcelona.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-spain:nth-child(3) {
+    background-image: url(images/Europe/Spain/bull.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Tanzania*/
+.swiper-slide-tanzania:nth-child(1) {
+    background-image: url(images/Africa/Tanzania/sergentti.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-tanzania:nth-child(2) {
+    background-image: url(images/Africa/Tanzania/kilimanjaro.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-tanzania:nth-child(3) {
+    background-image: url(images/Africa/Tanzania/masaivillage.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide USA*/
+.swiper-slide-usa:nth-child(1) {
+    background-image: url(images/NorthAmerica/USA/grandcanyon.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-usa:nth-child(2) {
+    background-image: url(images/NorthAmerica/USA/nbaplayoffs.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-usa:nth-child(3) {
+    background-image: url(images/NorthAmerica/USA/newyork.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Zambia*/
+.swiper-slide-zambia:nth-child(1) {
+    background-image: url(images/Africa/Zambia/victoriafallspictures.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-zambia:nth-child(2) {
+    background-image: url(images/Africa/Zambia/devilsfalls.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-zambia:nth-child(3) {
+    background-image: url(images/Africa/Zambia/mosi-oa.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*Slide Not Disovered*/
+.swiper-slide-not-discovered:nth-child(1) {
+    background-image: url(images/Asia/notdiscovered1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-not-discovered:nth-child(2) {
+    background-image: url(images/Asia/notdiscovered2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.swiper-slide-not-discovered:nth-child(3) {
+    background-image: url(images/Asia/notdiscovered3.jpg);
+    background-position: center;
+    background-size: cover;
+}
